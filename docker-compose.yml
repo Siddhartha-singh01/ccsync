@@ -51,4 +51,4 @@ services:
 
 networks:
   tasknetwork:
-    driver: bridge
+    driver: bridge 
